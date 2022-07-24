@@ -1,0 +1,9 @@
+export const ADD_NOTE = "ADD_NOTE";
+export const REMOVE_NOTE = "REMOVE_NOTE";
+export const EDIT_NOTE = "EDIT_NOTE";
+export const TOGGLE_LIST_VIEW = "TOGGLE_LIST_VIEW";
+export const ADD_TAG = "ADD_TAG";
+export const FILTER_NOTE = "FILTER_NOTE";
+export const FILTER_TAG = "FILTER_TAG";
+export const TOGGLE_SIDEBAR = "TOGGLE_SIDEBAR";
+export const SHOW_BIN = "SHOW_BIN";
